@@ -84,7 +84,7 @@
         android:layout_marginStart="4dp"
         android:layout_marginTop="70dp"
         android:layout_marginEnd="4dp"
-        android:background="#2640CD"
+        android:background="@drawable/btn_redondeado"
         android:text="Registrarse"
         android:textColor="@color/white"
         android:textSize="16sp"
